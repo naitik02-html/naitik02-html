@@ -1,5 +1,11 @@
 
 <div align="center">
+  <img src="github-banner.png" width="100%" alt="I_am_Naitik Banner">
+</div>
+
+<br>
+
+<div align="center">
 
 # `I_am_Naitik`
 
