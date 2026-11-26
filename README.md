@@ -89,6 +89,8 @@ I'm **I_am_Naitik**, a developer interested in building software, exploring tech
 
 *Turning ideas into reality, one line at a time.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=naitik02-html&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://img.shields.io/badge/PROFILE_VIEWS-1.5M-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+
+<sub>Custom illustrative profile view count — not actual traffic.</sub>
 
 </div>
