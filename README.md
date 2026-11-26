@@ -60,7 +60,7 @@ I'm **I_am_Naitik**, a developer interested in building software, exploring tech
 
 <div align="center">
 
-### NAITIK &lt;/&gt;'s Custom GitHub Stats
+### My &lt;/&gt; GitHub Stats
 
 ![Stars](https://img.shields.io/badge/Total_Stars-150%2B-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
 ![Commits](https://img.shields.io/badge/Total_Commits-2%2C500%2B-8B5CF6?style=for-the-badge&logo=git&logoColor=white)
