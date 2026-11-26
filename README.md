@@ -60,9 +60,24 @@ I'm **I_am_Naitik**, a developer interested in building software, exploring tech
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naitik02-html&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117)
+### NAITIK &lt;/&gt;'s Custom GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naitik02-html&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117)
+![Stars](https://img.shields.io/badge/Total_Stars-150%2B-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Total_Commits-2%2C500%2B-8B5CF6?style=for-the-badge&logo=git&logoColor=white)
+
+![PRs](https://img.shields.io/badge/Total_PRs-85%2B-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+![Issues](https://img.shields.io/badge/Total_Issues-40%2B-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+
+![Contributions](https://img.shields.io/badge/Contributions-1%2C200%2B-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+
+### Most Used Languages
+
+![Java](https://img.shields.io/badge/Java-8B5CF6?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8B5CF6?style=flat-square&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-8B5CF6?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-8B5CF6?style=flat-square&logo=css3&logoColor=white)
+
+<sub>Custom illustrative stats — not live GitHub account data.</sub>
 
 </div>
 
